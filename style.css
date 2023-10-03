@@ -1,0 +1,27 @@
+.box{
+    width: 700px;
+    margin: 30px auto;
+    /* background-color: black; */
+    border: 2px solid black;
+}
+.s-class button:first-child{
+background-color: rgba(231, 124, 74, 0.688);
+padding: 12px 20px;
+border-radius: 12px;
+font-weight: bolder;
+color: white;
+}
+.s-class button:nth-child(2){
+    background-color: rgb(254, 109, 6);
+padding: 12px 20px;
+border-radius: 12px;
+font-weight: bolder;
+color: white;
+}
+.shoe{
+    background-color: rgb(79, 210, 31);
+    padding: 12px 20px;
+    border-radius: 12px;
+    font-weight: bolder;
+    color: white; 
+}
